@@ -1,0 +1,16 @@
+\babel@toc {nil}{}
+\contentsline {section}{\numberline {1}Présentation du sujet}{2}{section.1}%
+\contentsline {section}{\numberline {2}Définition du cadre de travail}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Support}{2}{subsection.2.1}%
+\contentsline {paragraph}{}{2}{section*.3}%
+\contentsline {subsection}{\numberline {2.2}Responsabilité de chaque membre du groupe}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Algorithme d'itération}{2}{section.3}%
+\contentsline {paragraph}{}{2}{section*.4}%
+\contentsline {section}{\numberline {4}Afficheur pour l'exécution}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Afficheur texte}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Afficheur html}{2}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Description des tests de validation}{2}{section.5}%
+\contentsline {section}{\numberline {6}Évaluation des problèmes de mise en œuvre et de la réalisation}{2}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Première implémentation sans la structure pile}{2}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Complexité de nos algorithmes}{2}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Conclusion}{2}{section.7}%

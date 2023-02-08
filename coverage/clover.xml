@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1653050584332" clover="3.2.0">
+  <project timestamp="1653050584332" name="All files">
+    <metrics statements="119" coveredstatements="84" conditionals="54" coveredconditionals="36" methods="32" coveredmethods="27" elements="205" coveredelements="147" complexity="0" loc="119" ncloc="119" packages="1" files="4" classes="4"/>
+    <file name="interpreter.js" path="/home/kabouri/Desktop/projects/projetss6-robot-15531/src/interpreter.js">
+      <metrics statements="18" coveredstatements="11" conditionals="8" coveredconditionals="4" methods="7" coveredmethods="5"/>
+      <line num="7" count="12" type="stmt"/>
+      <line num="8" count="12" type="stmt"/>
+      <line num="14" count="4" type="stmt"/>
+      <line num="15" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="19" count="8" type="stmt"/>
+      <line num="23" count="4" type="stmt"/>
+      <line num="37" count="59" type="cond" truecount="2" falsecount="0"/>
+      <line num="38" count="55" type="stmt"/>
+      <line num="41" count="4" type="stmt"/>
+      <line num="44" count="55" type="stmt"/>
+      <line num="50" count="0" type="cond" truecount="0" falsecount="4"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="60" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="62" count="0" type="stmt"/>
+      <line num="63" count="0" type="stmt"/>
+    </file>
+    <file name="puzzle.js" path="/home/kabouri/Desktop/projects/projetss6-robot-15531/src/puzzle.js">
+      <metrics statements="28" coveredstatements="19" conditionals="2" coveredconditionals="0" methods="8" coveredmethods="5"/>
+      <line num="6" count="16" type="stmt"/>
+      <line num="19" count="3" type="stmt"/>
+      <line num="25" count="155" type="stmt"/>
+      <line num="39" count="156" type="stmt"/>
+      <line num="43" count="3" type="stmt"/>
+      <line num="47" count="2" type="stmt"/>
+      <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="53" count="0" type="stmt"/>
+      <line num="54" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+      <line num="58" count="0" type="stmt"/>
+      <line num="63" count="3" type="stmt"/>
+      <line num="64" count="3" type="stmt"/>
+      <line num="67" count="6" type="stmt"/>
+      <line num="68" count="6" type="stmt"/>
+      <line num="72" count="0" type="stmt"/>
+      <line num="76" count="0" type="stmt"/>
+      <line num="77" count="0" type="stmt"/>
+      <line num="80" count="3" type="stmt"/>
+      <line num="93" count="3" type="stmt"/>
+      <line num="94" count="3" type="stmt"/>
+      <line num="96" count="3" type="stmt"/>
+      <line num="109" count="3" type="stmt"/>
+      <line num="110" count="3" type="stmt"/>
+      <line num="112" count="3" type="stmt"/>
+      <line num="113" count="3" type="stmt"/>
+      <line num="117" count="3" type="stmt"/>
+    </file>
+    <file name="robot.js" path="/home/kabouri/Desktop/projects/projetss6-robot-15531/src/robot.js">
+      <metrics statements="65" coveredstatements="46" conditionals="44" coveredconditionals="32" methods="13" coveredmethods="13"/>
+      <line num="16" count="3" type="stmt"/>
+      <line num="20" count="16" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+      <line num="30" count="8" type="stmt"/>
+      <line num="34" count="8" type="stmt"/>
+      <line num="38" count="8" type="stmt"/>
+      <line num="39" count="8" type="stmt"/>
+      <line num="40" count="8" type="stmt"/>
+      <line num="44" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="48" count="51" type="cond" truecount="2" falsecount="0"/>
+      <line num="52" count="1" type="stmt"/>
+      <line num="67" count="4" type="stmt"/>
+      <line num="72" count="156" type="cond" truecount="2" falsecount="0"/>
+      <line num="73" count="1" type="stmt"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="76" count="155" type="cond" truecount="1" falsecount="1"/>
+      <line num="78" count="0" type="stmt"/>
+      <line num="79" count="0" type="stmt"/>
+      <line num="81" count="155" type="cond" truecount="2" falsecount="0"/>
+      <line num="83" count="1" type="stmt"/>
+      <line num="84" count="0" type="stmt"/>
+      <line num="86" count="154" type="cond" truecount="2" falsecount="0"/>
+      <line num="88" count="1" type="stmt"/>
+      <line num="89" count="0" type="stmt"/>
+      <line num="94" count="55" type="cond" truecount="7" falsecount="0"/>
+      <line num="95" count="1" type="stmt"/>
+      <line num="96" count="0" type="stmt"/>
+      <line num="98" count="54" type="stmt"/>
+      <line num="102" count="207" type="cond" truecount="2" falsecount="0"/>
+      <line num="108" count="155" type="cond" truecount="1" falsecount="1"/>
+      <line num="109" count="0" type="stmt"/>
+      <line num="112" count="155" type="stmt"/>
+      <line num="114" count="153" type="stmt"/>
+      <line num="115" count="153" type="stmt"/>
+      <line num="116" count="153" type="stmt"/>
+      <line num="117" count="153" type="stmt"/>
+      <line num="118" count="153" type="stmt"/>
+      <line num="121" count="153" type="cond" truecount="4" falsecount="1"/>
+      <line num="124" count="153" type="cond" truecount="2" falsecount="0"/>
+      <line num="125" count="53" type="cond" truecount="1" falsecount="1"/>
+      <line num="127" count="53" type="stmt"/>
+      <line num="131" count="53" type="stmt"/>
+      <line num="132" count="53" type="stmt"/>
+      <line num="136" count="100" type="cond" truecount="2" falsecount="0"/>
+      <line num="137" count="50" type="stmt"/>
+      <line num="142" count="50" type="cond" truecount="1" falsecount="1"/>
+      <line num="143" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="144" count="0" type="stmt"/>
+      <line num="145" count="0" type="stmt"/>
+      <line num="149" count="0" type="stmt"/>
+      <line num="154" count="50" type="cond" truecount="1" falsecount="1"/>
+      <line num="155" count="50" type="stmt"/>
+      <line num="156" count="50" type="stmt"/>
+      <line num="157" count="50" type="stmt"/>
+      <line num="158" count="50" type="stmt"/>
+      <line num="159" count="50" type="stmt"/>
+      <line num="160" count="50" type="stmt"/>
+      <line num="163" count="0" type="stmt"/>
+      <line num="170" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="171" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="172" count="0" type="stmt"/>
+      <line num="173" count="0" type="stmt"/>
+      <line num="177" count="0" type="stmt"/>
+      <line num="181" count="0" type="stmt"/>
+      <line num="182" count="0" type="stmt"/>
+    </file>
+    <file name="stack.js" path="/home/kabouri/Desktop/projects/projetss6-robot-15531/src/stack.js">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="4" count="8" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="13" count="55" type="stmt"/>
+      <line num="14" count="55" type="stmt"/>
+      <line num="15" count="55" type="stmt"/>
+      <line num="16" count="55" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

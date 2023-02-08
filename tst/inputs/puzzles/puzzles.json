@@ -1,0 +1,108 @@
+{
+    "puzzle1": {
+	"board": [
+	    "                ",
+	    "                ",
+	    "                ",
+	    "     gbbbbbbg   ",
+	    "     b      b   ",
+	    "     b      b   ",
+	    "     b bbbbbg   ",
+	    "     b          ",
+	    "   B grg        ",
+	    "   b  b         ",
+	    "   gbbg         ",
+	    "                "
+	],
+	"robot": {
+	    "x": 6,
+	    "y": 7,
+	    "direction": 0
+	}
+    },
+    "puzzle2": {
+	"board": [
+	    "                ",
+	    "                ",
+	    "                ",
+	    "         bB     ",
+	    "        bB      ",
+	    "       bB       ",
+	    "      bB        ",
+	    "     bB         ",
+	    "    Bb         ",
+	    "   Bb           ",
+	    "    bbb         ",
+	    "                "
+	],
+	"robot": {
+	    "x": 10,
+	    "y": 6,
+	    "direction": 2
+	}
+    },
+    "puzzle3": {
+	"board": [
+	    "                ",
+	    "                ",
+	    "        bbb     ",
+	    "        b b     ",
+	    "      bbb B     ",
+	    "      b         ",
+	    "      bbb       ",
+	    "        b       ",
+	    "      bbb       ",
+	    "      b         ",
+	    "    bbb         ",
+	    "                "
+	],
+	"robot": {
+	    "x": 10,
+	    "y": 4,
+	    "direction": 0
+	}
+    },
+    "puzzle4": {
+	"board": [
+	    "                ",
+	    "                ",
+	    "                ",
+	    "                ",
+	    "    brrrrrrrg   ",
+	    "    b       G   ",
+	    "                ",
+	    "                ",
+	    "                ",
+	    "                ",
+	    "                ",
+	    "                "
+	],
+	"robot": {
+	    "x": 5,
+	    "y": 4,
+	    "direction": 3
+	}
+	},
+
+	"puzzle5": {
+	"board": [
+		"                ",
+		"                ",
+		"                ",
+		"                ",
+		"    brrrrrrrg   ",
+		"    b       G   ",
+		"                ",
+		"                ",
+		"                ",
+		"                ",
+		"                ",
+		"                "
+	],
+	"robot": {
+		"x": 0,
+		"y": 0,
+		"direction": 1
+	}
+    }
+}

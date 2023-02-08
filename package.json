@@ -1,0 +1,34 @@
+{
+    "name": "projetss6-robot-15526",
+    "version": "1.0.0",
+    "description": "Robot Programming",
+    "main": "src/main.js",
+    "type": "module",
+    "scripts": {
+        "start": "node src/main.js",
+        "test": "NODE_OPTIONS='--experimental-vm-modules' npx jest --coverage",
+        "lint": "npx eslint src"
+    },
+    "repository": {
+        "type": "git"
+    },
+    "keywords": [
+        "robot",
+        "robozzle",
+        "js"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "buffer": "^6.0.3",
+        "eslint": "^8.11.0",
+        "jest": "^27.5.1",
+        "parcel": "^2.5.0"
+    },
+    "jest": {
+        "transform": {}
+    },
+    "dependencies": {
+        "esm": "^3.2.25"
+    }
+}
