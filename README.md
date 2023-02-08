@@ -38,12 +38,12 @@ Execution
 -----------
 To execute a solution program on a puzzle ,go into src/ directory, then use the following commande:
 	
--node main.js [name of the puzzle] [name of the solution]
+-`node main.js [name of the puzzle] [name of the solution]`
 
 Puzzles are named from puzzle1 to puzzle4 and solutions are nammed sol_puzzle1 to sol_puzzle4 .
 
-Exemple: node main.js puzzle1 puzzle2   (this commande applies the solution of the second puzzle on the first one )
+Exemple: `node main.js puzzle1 puzzle2`   (this commande applies the solution of the second puzzle on the first one )
 
--Execute the commande 'make test' to launch the tests for the code.
+-Execute the commande `make test` to launch the tests for the code.
 
--Execute the commande 'make gen' to generate the HTML page .
+-Execute the commande `make gen` to generate the HTML page .
